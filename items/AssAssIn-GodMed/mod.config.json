@@ -1,7 +1,7 @@
 {
 	"name": "GodMed",
 	"author": "AssAssIn",
-	"description": "You've heard of saw's-all ... now introducing the HEAL'S-ALL! It splints, it kills pain, it whitens those limbs right up! And ofcourse, restores your HP.",
+	"description": "With Apollo's Adrenaline coursing through your veins, there's no ailment you cant cure.",
 	"license": "None",
 	"releases": [
 		{
@@ -14,17 +14,17 @@
 	"dependencies": [],
 	"files": {
 		"items": {
-			"5c10c8fd86f7743d7d706df3": "user/mods/AssAssIn-GodMed/db/items/5c10c8fd86f7743d7d706df3.json"
+			"apollosAdrenaline": "user/mods/AssAssIn-GodMed/db/items/apollosAdrenaline.json"
 		},
 		"templates": {
 			"items": {
-				"5c10c8fd86f7743d7d706df3": "user/mods/AssAssIn-GodMed/db/templates/items/5c10c8fd86f7743d7d706df3.json"
+				"apollosAdrenaline": "user/mods/AssAssIn-GodMed/db/templates/items/apollosAdrenaline.json"
 			}
 		},
 		"assort": {
 			"ragfair": {
 				"items": {
-					"5c10c8fd86f7743d7d706df3": "user/mods/AssAssIn-GodMed/db/assort/ragfair/items/5c10c8fd86f7743d7d706df3.json"
+					"apollosAdrenaline": "user/mods/AssAssIn-GodMed/db/assort/ragfair/items/apollosAdrenaline.json"
 				}
 			}
 		}
