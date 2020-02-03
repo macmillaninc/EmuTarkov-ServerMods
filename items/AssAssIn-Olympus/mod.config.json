@@ -60,7 +60,7 @@
 		},
 		"templates": {
 			"items": {
-				"apollosAdrenaline": "user/mods/AssAssIn-GodMed/db/templates/items/apollosAdrenaline.json",
+				"apollosAdrenaline": "user/mods/AssAssIn-Olympus/db/templates/items/apollosAdrenaline.json",
 
 
 
@@ -79,7 +79,7 @@
 		"assort": {
 			"ragfair": {
 				"items": {
-					"apollosAdrenaline": "user/mods/AssAssIn-GodMed/db/assort/ragfair/items/apollosAdrenaline.json",
+					"apollosAdrenaline": "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/apollosAdrenaline.json",
 
 					"armorOfAres": "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/armorOfAres.json",
 					"helmetOfHermes": "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/helmetOfHermes.json",
