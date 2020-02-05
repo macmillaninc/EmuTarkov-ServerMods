@@ -7,7 +7,10 @@
 		{
 			"version": "1.0.0",
 			"changelog": [
-				"Initial release."
+				"1.0.0",
+					"Initial release.",
+				"1.1.0",
+					"Added atlasSatchel. Cleaned up read-me."
 			]
 		}
 	],
@@ -16,13 +19,11 @@
 		"items": {
 			"apollosAdrenaline": "user/mods/AssAssIn-Olympus/db/items/apollosAdrenaline.json",
 
-
+			"atlasSatchel": "user/mods/AssAssIn-Olympus/db/items/atlasSatchel.json",
 
 			"55d7217a4bdc2d86028b456d":  "user/mods/AssAssIn-Olympus/db/items/55d7217a4bdc2d86028b456d.json",
 			"armorOfAres":  "user/mods/AssAssIn-Olympus/db/items/armorOfAres.json",
 			"helmetOfHermes":  "user/mods/AssAssIn-Olympus/db/items/helmetOfHermes.json",
-
-
 
 			"herculeasMag556": "user/mods/AssAssIn-Olympus/db/items/herculeasMag556.json",
 			"herculeasMagAsh12": "user/mods/AssAssIn-Olympus/db/items/herculeasMagAsh12.json",
@@ -62,12 +63,10 @@
 			"items": {
 				"apollosAdrenaline": "user/mods/AssAssIn-Olympus/db/templates/items/apollosAdrenaline.json",
 
-
+				"atlasSatchel": "user/mods/AssAssIn-Olympus/db/templates/items/atlasSatchel.json",
 
 				"armorOfAres": "user/mods/AssAssIn-Olympus/db/templates/items/armorOfAres.json",
 				"helmetOfHermes": "user/mods/AssAssIn-Olympus/db/templates/items/helmetOfHermes.json",
-
-
 
 				"herculeasMag556": "user/mods/AssAssIn-Olympus/db/templates/items/herculeasMag556.json",
 				"herculeasMag762": "user/mods/AssAssIn-Olympus/db/templates/items/herculeasMag762.json",
@@ -81,10 +80,10 @@
 				"items": {
 					"apollosAdrenaline": "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/apollosAdrenaline.json",
 
+					"atlasSatchel": "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/atlasSatchel.json",
+
 					"armorOfAres": "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/armorOfAres.json",
 					"helmetOfHermes": "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/helmetOfHermes.json",
-
-
 
 					"herculeasMag556": "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herculeasMag556.json",
 					"herculeasMag762": "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herculeasMag762.json",

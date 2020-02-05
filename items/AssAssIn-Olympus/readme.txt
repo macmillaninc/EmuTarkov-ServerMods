@@ -1,13 +1,11 @@
-add this folder to server/user/mods
+Add this folder to server/user/mods.
 
-you'll find a new injector at the bottom of the list in flea market (click medical on the left and scroll to the bottom of the list on the right.)
+You'll find a new items at the bottom of their respective lists in flea market (click the type of item on the LEFT and scroll to the bottom of the list on the RIGHT.)
+Medical, Armor, Backpack, Helmet, Magazine.
 
-you'll find a new helmet and armor at the bottom of their respective lists in flea market (click helmet or armor on the left and scroll to the bottom of the list on the right.)
+The mags will fit in the appropriate guns for their caliber and use standard ammo.
 
-you'll find new mags at the bottom of the magazine list in flea market (click magazine on the left and scroll to the bottom of the list on the right.)
-the mags will fit in the appropriate guns for their caliber. uses standard ammo.
-
-to activate this mod, add the following lines to server.config.json located in server/user.
+To activate this mod, add the following lines to server.config.json located in server/user. Don't forget a comma in the right place in your mods list!
 
 {
 	"name": "Olympus",
