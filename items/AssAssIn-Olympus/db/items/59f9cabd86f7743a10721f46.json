@@ -1,23 +1,23 @@
 {
-	"_id": "5839a40f24597726f856b511",
-	"_name": "weapon_izhmash_aks74ub_545x39",
-	"_parent": "5447b5f14bdc2d61278b4567",
+	"_id": "59f9cabd86f7743a10721f46",
+	"_name": "weapon_izhmash_saiga_9_9x19",
+	"_parent": "5447b5e04bdc2d62278b4567",
 	"_type": "Item",
 	"_props": {
-		"Name": "weapon_izhmash_aks74ub_545x39",
-		"ShortName": "weapon_izhmash_aks74ub_545x39",
-		"Description": "weapon_izhmash_aks74ub_545x39",
-		"Weight": 1.85,
+		"Name": "weapon_izhmash_saiga_9_9x19",
+		"ShortName": "weapon_izhmash_saiga_9_9x19",
+		"Description": "weapon_izhmash_saiga_9_9x19",
+		"Weight": 1.962,
 		"BackgroundColor": "black",
 		"Width": 3,
 		"Height": 1,
 		"StackMaxSize": 1,
-		"Rarity": "Rare",
-		"SpawnChance": 1,
-		"CreditsPrice": 21746,
+		"Rarity": "Common",
+		"SpawnChance": 4,
+		"CreditsPrice": 9946,
 		"ItemSound": "weap_ar",
 		"Prefab": {
-			"path": "assets/content/weapons/aks74u/weapon_izhmash_aks74ub_545x39_container.bundle",
+			"path": "assets/content/weapons/pp-19-01/weapon_izhmash_saiga_9_9x19_container.bundle",
 			"rcid": ""
 		},
 		"UsePrefab": {
@@ -34,11 +34,11 @@
 		"IsUngivable": false,
 		"IsLockedafterEquip": false,
 		"QuestItem": false,
-		"LootExperience": 20,
-		"ExamineExperience": 4,
+		"LootExperience": 30,
+		"ExamineExperience": 8,
 		"HideEntrails": false,
-		"RepairCost": 70,
-		"RepairSpeed": 5,
+		"RepairCost": 75,
+		"RepairSpeed": 15,
 		"ExtraSizeLeft": 0,
 		"ExtraSizeRight": 0,
 		"ExtraSizeUp": 0,
@@ -62,8 +62,8 @@
 		"Slots": [
 			{
 				"_name": "mod_pistol_grip",
-				"_id": "5839a40f24597726f856b514",
-				"_parent": "5839a40f24597726f856b511",
+				"_id": "59f9cabd86f7743a10721f47",
+				"_parent": "59f9cabd86f7743a10721f46",
 				"_props": {
 					"filters": [
 						{
@@ -95,16 +95,16 @@
 			},
 			{
 				"_name": "mod_stock",
-				"_id": "5839a40f24597726f856b515",
-				"_parent": "5839a40f24597726f856b511",
+				"_id": "59f9cabd86f7743a10721f48",
+				"_parent": "59f9cabd86f7743a10721f46",
 				"_props": {
 					"filters": [
 						{
 							"Shift": 0,
 							"Filter": [
-								"59ecc28286f7746d7a68aa8c",
-								"5ab626e4d8ce87272e4c6e43",
-								"57dc347d245977596754e7a1"
+								"5cf50fc5d7f00c056c53f83c",
+								"5ac78eaf5acfc4001926317a",
+								"599851db86f77467372f0a18"
 							]
 						}
 					]
@@ -115,8 +115,8 @@
 			},
 			{
 				"_name": "mod_charge",
-				"_id": "5839a40f24597726f856b516",
-				"_parent": "5839a40f24597726f856b511",
+				"_id": "59f9cabd86f7743a10721f49",
+				"_parent": "59f9cabd86f7743a10721f46",
 				"_props": {
 					"filters": [
 						{
@@ -133,24 +133,18 @@
 			},
 			{
 				"_name": "mod_magazine",
-				"_id": "5839a40f24597726f856b517",
-				"_parent": "5839a40f24597726f856b511",
+				"_id": "59f9cabd86f7743a10721f4a",
+				"_parent": "59f9cabd86f7743a10721f46",
 				"_props": {
 					"filters": [
 						{
 							"AnimationIndex": -1,
 							"Filter": [
-								"564ca9df4bdc2d35148b4569",
-								"564ca99c4bdc2d16268b4589",
-								"55d480c04bdc2d1d4e8b456a",
-								"5cbdaf89ae9215000e5b9c94",
-								"55d481904bdc2d8c2f8b456a",
-								"55d482194bdc2d1d4e8b456b",
-								"55d4837c4bdc2d1d4e8b456c",
-								"5aaa4194e5b5b055d06310a5",
-								"5bed61680db834001d2c45ab",
-								"5bed625c0db834001c062946",
-								"herc545"
+								"5998529a86f774647f44f421",
+								"599860ac86f77436b225ed1a",
+								"5c0673fb0db8340023300271",
+								"5c0672ed0db834001b7353f3",
+								"herc919"
 							]
 						}
 					]
@@ -161,23 +155,20 @@
 			},
 			{
 				"_name": "mod_muzzle",
-				"_id": "5839a40f24597726f856b518",
-				"_parent": "5839a40f24597726f856b511",
+				"_id": "59f9cabd86f7743a10721f4b",
+				"_parent": "59f9cabd86f7743a10721f46",
 				"_props": {
 					"filters": [
 						{
 							"Shift": 0,
 							"Filter": [
-								"5ac72e945acfc43f3b691116",
-								"5ac7655e5acfc40016339a19",
-								"5649aa744bdc2ded0b8b457e",
-								"5943eeeb86f77412d6384f6b",
-								"5cc9a96cd7f00c011c04e04a",
-								"57dc324a24597759501edc20",
+								"5998597786f77414ea6da093",
+								"5998598e86f7740b3f498a86",
 								"59bffc1f86f77435b128b872",
-								"593d493f86f7745e6b2ceb22",
-								"564caa3d4bdc2d17108b458e",
-								"57ffb0e42459777d047111c5"
+								"5a9fb739a2750c003215717f",
+								"5c6165902e22160010261b28",
+								"5a32a064c4a28200741e22de",
+								"59bfc5c886f7743bf6794e62"
 							]
 						}
 					]
@@ -188,15 +179,15 @@
 			},
 			{
 				"_name": "mod_reciever",
-				"_id": "5839a40f24597726f856b519",
-				"_parent": "5839a40f24597726f856b511",
+				"_id": "59f9cabd86f7743a10721f4c",
+				"_parent": "59f9cabd86f7743a10721f46",
 				"_props": {
 					"filters": [
 						{
 							"Shift": 0,
 							"Filter": [
-								"57dc334d245977597164366f",
-								"5839a7742459773cf9693481"
+								"59985a6c86f77414ec448d17",
+								"59985a8086f77414ec448d1a"
 							]
 						}
 					]
@@ -206,26 +197,15 @@
 				"_proto": "55d30c4c4bdc2db4468b457e"
 			},
 			{
-				"_name": "mod_mount_000",
-				"_id": "5839a40f24597726f856b51a",
-				"_parent": "5839a40f24597726f856b511",
+				"_name": "mod_sight_rear",
+				"_id": "59f9cabd86f7743a10721f4d",
+				"_parent": "59f9cabd86f7743a10721f46",
 				"_props": {
 					"filters": [
 						{
 							"Shift": 0,
 							"Filter": [
-								"5947db3f86f77447880cf76f",
-								"57486e672459770abd687134",
-								"5c82342f2e221644f31c060e",
-								"576fd4ec2459777f0b518431",
-								"5c82343a2e221644f31c0611",
-								"5cf638cbd7f00c06595bc936",
-								"5a7c74b3e899ef0014332c29",
-								"591ee00d86f774592f7b841e",
-								"5d0a29ead7ad1a0026013f27",
-								"57acb6222459771ec34b5cb0",
-								"5c61a40d2e2216001403158d",
-								"5c90c3622e221601da359851"
+								"599860e986f7743bb57573a6"
 							]
 						}
 					]
@@ -236,14 +216,14 @@
 			},
 			{
 				"_name": "mod_gas_block",
-				"_id": "59d37a7886f7747ff1158152",
-				"_parent": "5839a40f24597726f856b511",
+				"_id": "59f9cabd86f7743a10721f4f",
+				"_parent": "59f9cabd86f7743a10721f46",
 				"_props": {
 					"filters": [
 						{
 							"Shift": 0,
 							"Filter": [
-								"59d36a0086f7747e673f3946"
+								"59ccd11386f77428f24a488f"
 							]
 						}
 					]
@@ -255,9 +235,9 @@
 		],
 		"CanPutIntoDuringTheRaid": true,
 		"CantRemoveFromSlotsDuringRaid": [],
-		"weapClass": "assaultRifle",
+		"weapClass": "smg",
 		"weapUseType": "primary",
-		"ammoCaliber": "Caliber545x39",
+		"ammoCaliber": "Caliber9x19PARA",
 		"Durability": 95,
 		"MaxDurability": 100,
 		"OperatingResource": 4000,
@@ -265,47 +245,40 @@
 		"durabSpawnMin": 25,
 		"durabSpawnMax": 75,
 		"isFastReload": true,
-		"RecoilForceUp": 152,
-		"RecoilForceBack": 455,
+		"RecoilForceUp": 85,
+		"RecoilForceBack": 355,
 		"Convergence": 1,
 		"RecoilAngle": 90,
 		"weapFireType": [
-			"single",
-			"fullauto"
+			"single"
 		],
 		"RecolDispersion": 25,
 		"bFirerate": 650,
-		"Ergonomics": 40,
+		"Ergonomics": 32,
 		"Velocity": -17.9,
 		"bEffDist": 300,
 		"bHearDist": 80,
 		"isChamberLoad": true,
 		"chamberAmmoCount": 1,
 		"isBoltCatch": false,
-		"defMagType": "55d480c04bdc2d1d4e8b456a",
-		"defAmmo": "56dff3afd2720bba668b4567",
+		"defMagType": "5998529a86f774647f44f421",
+		"defAmmo": "56d59d3ad2720bdb418b4577",
 		"shotgunDispersion": 0,
 		"Chambers": [
 			{
 				"_name": "patron_in_weapon",
-				"_id": "5839a40f24597726f856b512",
-				"_parent": "5839a40f24597726f856b511",
+				"_id": "59f9cabd86f7743a10721f50",
+				"_parent": "59f9cabd86f7743a10721f46",
 				"_props": {
 					"filters": [
 						{
 							"Filter": [
-								"5c0d5e4486f77478390952fe",
-								"56dfef82d2720bbd668b4567",
-								"56dff026d2720bb8668b4567",
-								"56dff061d2720bb5668b4567",
-								"56dff0bed2720bb0668b4567",
-								"56dff216d2720bbd668b4568",
-								"56dff2ced2720bb4668b4567",
-								"56dff338d2720bbd668b4569",
-								"56dff3afd2720bba668b4567",
-								"56dff421d2720b5f5a8b4567",
-								"56dff4a2d2720bbd668b456a",
-								"56dff4ecd2720b5f5a8b4568"
+								"5c3df7d588a4501f290594e5",
+								"58864a4f2459770fcc257101",
+								"56d59d3ad2720bdb418b4577",
+								"5c925fa22e221601da359b7b",
+								"5a3c16fe86f77452b62de32a",
+								"5c0d56a986f774449d5de529"
 							],
 							"MaxStackCount": 0
 						}
@@ -320,7 +293,7 @@
 		"CameraSnap": 3.5,
 		"ReloadMode": "ExternalMagazine",
 		"CenterOfImpact": 0.1,
-		"AimPlane": 0.15,
+		"AimPlane": 0.1,
 		"DeviationCurve": 1,
 		"DeviationMax": 100,
 		"Foldable": true,
@@ -352,7 +325,7 @@
 		"SightingRange": 100,
 		"MinRepairDegradation": 0,
 		"MaxRepairDegradation": 0.01,
-		"IronSightRange": 100,
+		"IronSightRange": 50,
 		"MustBoltBeOpennedForExternalReload": false,
 		"MustBoltBeOpennedForInternalReload": false,
 		"BoltAction": false,
@@ -361,5 +334,5 @@
 		"HipInnaccuracyGain": 0.16,
 		"ManualBoltCatch": false
 	},
-	"_proto": "5644bd2b4bdc2d3b4c8b4572"
+	"_proto": "5447a9cd4bdc2dbd208b4567"
 }
