@@ -14,11 +14,11 @@
 	"files": {
 		"user": {
 			"cache": {
-				"locale_po": "user/cache/locale_ch.json"
+				"locale_ch": "user/cache/locale_ch.json"
 			}
 		},
 		"locales": {
-			"po": {
+			"ch": {
 				"name": "user/mods/EmuTarkov-LocaleCh/db/locales/ch/ch.json",
 				"menu": "user/mods/EmuTarkov-LocaleCh/db/locales/ch/menu.json",
 				"interface": "user/mods/EmuTarkov-LocaleCh/db/locales/ch/interface.json",
