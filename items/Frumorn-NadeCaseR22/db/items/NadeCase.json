@@ -1,0 +1,95 @@
+{
+	"_id": "NadeCase",
+	"_name": "NadeCase",
+	"_parent": "5795f317245977243854e041",
+	"_type": "Item",
+	"_props": {
+		"Name": "Grenade Case",
+		"ShortName": "Grenade Case",
+		"Description": "Useful for storing your precious grenades",
+		"Weight": 5,
+		"BackgroundColor": "blue",
+		"Width": 3,
+		"Height": 3,
+		"StackMaxSize": 1,
+		"Rarity": "Not_exist",
+		"SpawnChance": 4,
+		"CreditsPrice": 275000,
+		"ItemSound": "container_plastic",
+		"Prefab": {
+			"path": "assets/content/items/quest/item_quest_container_carbon_case/item_quest_container_carbon_case.bundle",
+			"rcid": ""
+		},
+		"UsePrefab": {
+			"path": "",
+			"rcid": ""
+		},
+		"StackObjectsCount": 1,
+		"NotShownInSlot": false,
+		"ExaminedByDefault": true,
+		"ExamineTime": 1,
+		"IsUndiscardable": false,
+		"IsUnsaleable": false,
+		"IsUnbuyable": false,
+		"IsUngivable": false,
+		"IsLockedafterEquip": false,
+		"QuestItem": false,
+		"LootExperience": 100,
+		"ExamineExperience": 50,
+		"HideEntrails": true,
+		"RepairCost": 0,
+		"RepairSpeed": 0,
+		"ExtraSizeLeft": 0,
+		"ExtraSizeRight": 0,
+		"ExtraSizeUp": 0,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"MergesWithChildren": false,
+		"CanSellOnRagfair": true,
+		"CanRequireOnRagfair": true,
+		"BannedFromRagfair": false,
+		"ConflictingItems": [],
+		"FixedPrice": false,
+		"Unlootable": false,
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UnlootableFromSide": [],
+		"ChangePriceCoef": 1,
+		"AllowSpawnOnLocations": [],
+		"SendToClient": false,
+		"AnimationVariantsNumber": 0,
+		"DiscardingBlock": false,
+		"Grids": [
+			{
+				"_name": "main",
+				"_id": "590dde5786f77405e71908b3",
+				"_parent": "590dde5786f77405e71908b2",
+				"_props": {
+					"filters": [
+						{
+							"Filter": [
+								"5a0c27731526d80618476ac4",
+								"5448be9a4bdc2dfd2f8b456a",
+								"5a2a57cfc4a2826c6e06d44a",
+								"58d3db5386f77426186285a0",
+								"5710c24ad2720bc3458b45a3"
+							],
+							"ExcludedFilter": []
+						}
+					],
+					"cellsH": 10,
+					"cellsV": 10,
+					"minCount": 0,
+					"maxCount": 0,
+					"maxWeight": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			}
+		],
+		"Slots": [],
+		"CanPutIntoDuringTheRaid": true,
+		"CantRemoveFromSlotsDuringRaid": [],
+		"TagColor": 0,
+		"TagName": ""
+	},
+	"_proto": "567143bf4bdc2d1a0f8b4567"
+}
