@@ -1,11 +1,11 @@
 # EmuTarkov-ServerMods
 A repository containing mods made for the EmuTarkov-Server
 
-**```/!\ IMPORTANT /!\```**
+## **```/!\ IMPORTANT /!\```**
 - **THIS REPOSITORY IS NOT A MOD**
 - **YOU NEED TO PICK MODS INCLUDED IN THE DIFFERENTS FOLDER OF THE REPOSITORY**
 
-# How to install a mod ?
+## How to install a mod ?
 
 1. Add the desired mod folder into ```/user/mods/```
 2. Add this code in ```/user/server.config.json```:
