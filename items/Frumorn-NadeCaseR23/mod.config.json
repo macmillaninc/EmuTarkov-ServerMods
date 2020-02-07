@@ -1,0 +1,45 @@
+{
+	"name": "NadeCaseR23",
+	"author": "Frumorn",
+	"description": "Hey a container for grenades wow cool",
+	"license": "None",
+	"releases": [
+		{
+			"version": "1.0.0",
+			"changelog": [
+				"Release"
+			]
+		}
+	],
+	"dependencies": [],
+	"files": {
+		"locales": {
+			"en": {
+				"templates": {
+					"NadeCase": "user/mods/Frumorn-NadeCaseR23/db/locales/en/templates/NadeCase.json"
+				}
+			}
+		},
+		"items": {
+			"NadeCase": "user/mods/Frumorn-NadeCaseR23/db/items/NadeCase.json"
+		},
+		"templates": {
+			"items": {
+				"NadeCase": "user/mods/Frumorn-NadeCaseR23/db/templates/items/NadeCase.json"
+			}
+		},
+		"assort": {
+			"ragfair": {
+				"items": {
+					"NadeCase": "user/mods/Frumorn-NadeCaseR23/db/assort/ragfair/items/NadeCase.json"
+					},
+				"barter": {
+					"NadeCase": "user/mods/Frumorn-NadeCaseR23/db/assort/ragfair/barter/NadeCase.json"
+				},
+				"level": {
+					"NadeCase": "user/mods/Frumorn-NadeCaseR23/db/assort/ragfair/level/NadeCase.json"
+				}
+			}
+		}
+	}
+}

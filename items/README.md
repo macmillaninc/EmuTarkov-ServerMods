@@ -24,3 +24,9 @@ This mod add an overpowereded med to the game.
 
 ### AssAssIn-Olympus - Made by AssAssIn
 This mod compile all God** mods into one.
+
+### Frumorn-NadeCaseR22 - Made by Frumorn
+This mod adds a grenade container (3x3 with 100 slots) to fleamarket for 275000 rubles, compatible with R22.
+
+### Frumorn-NadeCaseR23 - Made by Frumorn
+This mod adds a grenade container (3x3 with 100 slots) to fleamarket for 275000 rubles, compatible with R23.
