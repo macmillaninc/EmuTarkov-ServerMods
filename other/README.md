@@ -6,3 +6,19 @@ This folder contain all mods that are not related to any other folder in the rep
 
 ### Sorata-AdvancedBotLoadouts - Made by Sorata
 This mod aim to add more bots presets to the game, with randomized generated presets for there inventory and gears.
+
+### EmuTarkov-AllClothesForFree
+This mod make all clothing available in fence and ragman for free.
+
+### EmuTarkov-AllItemsExamined
+This mod make all items as examined by default
+
+### EmuTarkov-AllQuestsAvailable
+This mod let you take any quests, without any conditions between each quests
+
+### EmuTarkov-HardcoreMode
+**/!\ This mod is only supported for R23 version and not any R22 version.**
+
+Carefully read the mod readme when you're setting it up
+
+This mod make the game more hardcore by removing every items you get when wiping and removing the flea market.
