@@ -1,0 +1,25 @@
+{
+	"name": "SenkoTherapist",
+	"author": "NoHurry",
+	"description": "Changes therapist to Senko-san",
+	"license": "MIT",
+	"releases": [
+		{
+			"version": "1.0.0",
+			"changelog": [
+				"Initial release."
+			]
+		}
+	],
+	"dependencies": [],
+	"files": {
+		"images": {
+			"trader": {
+				"54cb57776803fa99248b456e": "user/mods/NoHurry-SenkoTherapist/res/quest/54cb57776803fa99248b456e.jpg"
+			},
+			"quest": {
+				"59c2742286f77475ec568d92": "user/mods/NoHurry-SenkoTherapist/res/quest/59c2742286f77475ec568d92.jpg"
+			}
+		}
+	}
+}
