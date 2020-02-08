@@ -1,11 +1,11 @@
 {
 	"name": "NoHolsterRestriction",
 	"author": "Miku",
-	"description": "All weapons can go in all three slots",
+	"description": "All weapons can go in all slots including scabbard",
 	"license": "None",
 	"releases": [
 		{
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"changelog": [
 				"Initial release."
 			]
