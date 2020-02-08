@@ -27,3 +27,11 @@ This mod make the game more hardcore by removing every items you get when wiping
 **/!\ This mod is only supported for R23 version and not any R22 version.**
 **If you want to use it on R22, drop the content of /db/hideout into serverdir/db/hideout**
 This mod edit all hideout productions timer to be faster than normal
+
+### Miku-InfiniteTime
+This mod makes all raid times infinite.
+Reserve's Armored Train is unaffected, it will come and go at the same time as normal.
+
+### Miku-NoHolsterRestriction
+This mod allows you to equip any weapon in any slot (including melee in gun slot and vice versa)
+Take note that the weapon in the melee slot will be saved if you die.
