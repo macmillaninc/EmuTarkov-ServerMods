@@ -35,3 +35,6 @@ Reserve's Armored Train is unaffected, it will come and go at the same time as n
 ### Miku-NoHolsterRestriction
 This mod allows you to equip any weapon in any slot (including melee in gun slot and vice versa)
 Take note that the weapon in the melee slot will be saved if you die.
+
+### Beaubot-RenamedBots - Made by @Beaubot
+Gives PMC bots real names that show up when they're killed, taken straight from the official EFT leaderboards)!
