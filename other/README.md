@@ -30,11 +30,19 @@ This mod edit all hideout productions timer to be faster than normal
 
 ### Miku-InfiniteTime
 This mod makes all raid times infinite.
+
 Reserve's Armored Train is unaffected, it will come and go at the same time as normal.
 
 ### Miku-NoHolsterRestriction
 This mod allows you to equip any weapon in any slot (including melee in gun slot and vice versa)
+
 Take note that the weapon in the melee slot will be saved if you die.
+
+### Miku-CaseInPouch
+This mod allows you to put cases into the Secured Container slot. 
+
+### Miku-InventoryQOL
+Combined version of CaseInPouch and NoHolsterRestriction
 
 ### Beaubot-RenamedBots - Made by @Beaubot
 Gives PMC bots real names that show up when they're killed, taken straight from the official EFT leaderboards)!
