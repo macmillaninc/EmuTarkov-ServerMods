@@ -1,0 +1,20 @@
+{
+	"name": "InventoryQOL",
+	"author": "Miku",
+	"description": "All my inventory mods combined into one",
+	"license": "None",
+	"releases": [
+		{
+			"version": "1.0.0",
+			"changelog": [
+				"Initial release."
+			]
+		}
+	],
+	"dependencies": [],
+	"files": {
+		"items": {
+			"55d7217a4bdc2d86028b456d": "user/mods/Miku-InventoryQOL/db/items/55d7217a4bdc2d86028b456d.json"
+		}
+	}
+}

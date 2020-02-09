@@ -1,0 +1,20 @@
+{
+	"name": "CaseInPouch",
+	"author": "Miku",
+	"description": "Put cases into secured container slot",
+	"license": "None",
+	"releases": [
+		{
+			"version": "1.0.0",
+			"changelog": [
+				"Initial release."
+			]
+		}
+	],
+	"dependencies": [],
+	"files": {
+		"items": {
+			"55d7217a4bdc2d86028b456d": "user/mods/Miku-CaseInPouch/db/items/55d7217a4bdc2d86028b456d.json"
+		}
+	}
+}
