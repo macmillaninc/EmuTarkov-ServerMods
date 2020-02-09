@@ -1,0 +1,25 @@
+{
+	"name": "IncreasedMoneyStacks",
+	"author": [
+		"Sorata" 
+	],
+	"description": "Change all money stacks to 10M",
+	"license": "None",
+	"releases": [
+		{
+			"version": "1.0.0",
+			"changelog": [
+				"Initial release.",
+				"Increased money stacks to 10M for each"
+			]
+		}
+	],
+	"dependencies": [],
+	"files": {
+		"items": {
+			"5449016a4bdc2d6f028b456f": "user/mods/Sorata-IncreasedMoneyStacks/db//items/5449016a4bdc2d6f028b456f.json",
+			"5696686a4bdc2da3298b456a": "user/mods/Sorata-IncreasedMoneyStacks/db/items/5696686a4bdc2da3298b456a.json",
+			"569668774bdc2da2298b4568": "user/mods/Sorata-IncreasedMoneyStacks/db/items/569668774bdc2da2298b4568.json"
+		}
+	}
+}
