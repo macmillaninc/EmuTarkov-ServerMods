@@ -33,7 +33,7 @@ You can send me other weapons presets if you wish ! For doing so, make your weap
 
 ## Installation Guide
 
-**/!\ For now, only do what is stated in the TRHOUBLESHOOT section ! /!\**
+#### /!\ For now, only do what is stated in the TRHOUBLESHOOT section ! /!\
 
 Here is how you install this mod, follow all steps and it's good !
 
