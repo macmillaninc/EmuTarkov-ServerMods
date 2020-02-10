@@ -1,8 +1,6 @@
 {
 	"name": "EquipRigsWithArmors",
-	"author": [
-		"Sorata" 
-	],
+	"author": "Sorata",
 	"description": "Revert back rigs armored rigs to like 0.11 when you could wear an armored rigs with an armored vest",
 	"license": "None",
 	"releases": [

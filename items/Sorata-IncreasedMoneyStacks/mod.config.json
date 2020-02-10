@@ -1,8 +1,6 @@
 {
 	"name": "IncreasedMoneyStacks",
-	"author": [
-		"Sorata" 
-	],
+	"author": "Sorata",
 	"description": "Change all money stacks to 10M",
 	"license": "None",
 	"releases": [
