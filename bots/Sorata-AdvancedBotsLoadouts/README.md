@@ -18,7 +18,7 @@ YES it will !! I managed to get most of the items to have the in raid state, exc
 Here is the download link for the actual files : 
 /!\ This is only supported for **12.2.x +** versions of the game. Don't use it for older versions you may have issues with it/!\
 
-> https://github.com/KandaSoranyan/AdvancedBotsLoadouts/releases
+> https://github.com/justemutarkov/EmuTarkov-ServerMods/releases
 
 
 **Will be other version of this mod ?**
@@ -33,11 +33,11 @@ You can send me other weapons presets if you wish ! For doing so, make your weap
 
 ## Installation Guide
 
-/!\ For now, only do what is stated in the TRHOUBLESHOOT section ! /!\
+#### /!\ For now, only do what is stated in the TRHOUBLESHOOT section ! /!\
 
 Here is how you install this mod, follow all steps and it's good !
 
-	1. First is to download the last version of the mod here : https://github.com/KandaSoranyan/AdvancedBotsLoadouts/releases
+	1. First is to download the last version of the mod here : hhttps://github.com/justemutarkov/EmuTarkov-ServerMods/releases
 	2. Drop the folder Sorata-AdvancedBotsLoadouts in *user/mods*.
 	3. Add this code in the server.config.json in the "list" data.
 	
