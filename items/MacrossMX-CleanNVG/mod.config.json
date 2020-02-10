@@ -1,0 +1,26 @@
+{
+	"name": "CleanNVG",
+	"author": [
+		"MacrossMX" 
+	],
+	"description": "All NVG modified with a clearer picture, wide view, and lower intensity for reduced glare. 
+	In addition, the PVN-10T uses the same color filter as the Armasight N-15.",
+	"license": "None",
+	"releases": [
+		{
+			"version": "1.0.0",
+			"changelog": [
+				"Initial release."
+			]
+		}
+	],
+	"dependencies": [],
+	"files": {
+		"items": {
+			"5c066e3a0db834001b7353f0": "user/mods/MacrossMX-CleanNVG/db//items/5c066e3a0db834001b7353f0.json",
+			"5c0558060db834001b735271": "user/mods/MacrossMX-CleanNVG/db/items/5c0558060db834001b735271.json",
+			"5c0696830db834001d23f5da": "user/mods/MacrossMX-CleanNVG/db/items/5c0696830db834001d23f5da.json",
+			"57235b6f24597759bf5a30f1": "user/mods/MacrossMX-CleanNVG/db/items/57235b6f24597759bf5a30f1.json"
+		}
+	}
+}
