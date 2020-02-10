@@ -362,7 +362,7 @@
 	"MinDistToExitPoint": 30,
 	"MaxDistToFreePoint": 1200,
 	"MinDistToFreePoint": 80,
-	"MaxBotPerZone": 6,
+	"MaxBotPerZone": 3,
 	"OpenZones": "ZoneSanatorium,ZonePassFar,ZonePassClose,ZoneTunnel,ZoneStartVillage,ZoneBunker",
 	"OcculsionCullingEnabled": true,
 	"GlobalLootChanceModifier": 0.4,
