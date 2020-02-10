@@ -5,7 +5,7 @@
 	"license": "None",
 	"releases": [
 		{
-			"version": "1.0.0",
+			"version": "1.2.1",
 			"changelog": [
 				"1.0.0",
 					"Initial release.",
@@ -19,7 +19,9 @@
 					"Changed keytool to be 10x10 internal, accept dogTags.",
 					"Changed SICC case to be 10x10 internal, accept intelDocs.",
 					"Changed all ammo to stack to 1000. No changes were made to ammo stats.",
-					"Changed 'ExaminedByDefault' to true for all mod items."
+					"Changed 'ExaminedByDefault' to true for all mod items.",
+				"1.2.1",
+					"GRAPHICAL UPDATE. Added/changed mags for each gun: SA-58 for instance does not look good using the hunter mag model or the SR-25 mag model."
 			]
 		}
 	],
@@ -67,26 +69,38 @@
 			"57f3c6bd24597738e730fa2f": "user/mods/AssAssIn-Olympus/db/items/57f3c6bd24597738e730fa2f.json",
 			"57f4c844245977379d5c14d1": "user/mods/AssAssIn-Olympus/db/items/57f4c844245977379d5c14d1.json",
 			
-			"herc918p":                 "user/mods/AssAssIn-Olympus/db/items/herc918p.json",
+			"hercPM":                   "user/mods/AssAssIn-Olympus/db/items/hercPM.json",
 			"5448bd6b4bdc2dfc2f8b4569": "user/mods/AssAssIn-Olympus/db/items/5448bd6b4bdc2dfc2f8b4569.json",
 			"56e0598dd2720bb5668b45a6": "user/mods/AssAssIn-Olympus/db/items/56e0598dd2720bb5668b45a6.json",
 			"579204f224597773d619e051": "user/mods/AssAssIn-Olympus/db/items/579204f224597773d619e051.json",
+
+			"hercAPS":                  "user/mods/AssAssIn-Olympus/db/items/hercAPS.json",
 			"5a17f98cfcdbcb0980087290": "user/mods/AssAssIn-Olympus/db/items/5a17f98cfcdbcb0980087290.json",
 			"5abccb7dd8ce87001773e277": "user/mods/AssAssIn-Olympus/db/items/5abccb7dd8ce87001773e277.json",
 
-			"herc919":                  "user/mods/AssAssIn-Olympus/db/items/herc919.json",
-			"58948c8e86f77409493f7266": "user/mods/AssAssIn-Olympus/db/items/58948c8e86f77409493f7266.json",
-			"59984ab886f7743e98271174": "user/mods/AssAssIn-Olympus/db/items/59984ab886f7743e98271174.json",
-			"59f9cabd86f7743a10721f46": "user/mods/AssAssIn-Olympus/db/items/59f9cabd86f7743a10721f46.json",
+			"hercMP9":                  "user/mods/AssAssIn-Olympus/db/items/hercMP9.json",
 			"5de7bd7bfd6b4e6e2276dc25": "user/mods/AssAssIn-Olympus/db/items/5de7bd7bfd6b4e6e2276dc25.json",
 			"5e00903ae9dc277128008b87": "user/mods/AssAssIn-Olympus/db/items/5e00903ae9dc277128008b87.json",
 
-			"herc919p":                 "user/mods/AssAssIn-Olympus/db/items/herc919p.json",
-			"5cadc190ae921500103bb3b6": "user/mods/AssAssIn-Olympus/db/items/5cadc190ae921500103bb3b6.json",
-			"5a7ae0c351dfba0017554310": "user/mods/AssAssIn-Olympus/db/items/5a7ae0c351dfba0017554310.json",
-			"576a581d2459771e7b1bc4f1": "user/mods/AssAssIn-Olympus/db/items/576a581d2459771e7b1bc4f1.json",
-			"5b1fa9b25acfc40018633c01": "user/mods/AssAssIn-Olympus/db/items/5b1fa9b25acfc40018633c01.json",
+			"hercMPX":                  "user/mods/AssAssIn-Olympus/db/items/hercMPX.json",
+			"58948c8e86f77409493f7266": "user/mods/AssAssIn-Olympus/db/items/58948c8e86f77409493f7266.json",
+
+			"hercPP19":                 "user/mods/AssAssIn-Olympus/db/items/hercPP19.json",
+			"59984ab886f7743e98271174": "user/mods/AssAssIn-Olympus/db/items/59984ab886f7743e98271174.json",
+			"59f9cabd86f7743a10721f46": "user/mods/AssAssIn-Olympus/db/items/59f9cabd86f7743a10721f46.json",
+
+			"hercP226r":                "user/mods/AssAssIn-Olympus/db/items/hercP226r.json",
 			"56d59856d2720bd8418b456a": "user/mods/AssAssIn-Olympus/db/items/56d59856d2720bd8418b456a.json",
+
+			"hercGratch":               "user/mods/AssAssIn-Olympus/db/items/hercGratch.json",
+			"576a581d2459771e7b1bc4f1": "user/mods/AssAssIn-Olympus/db/items/576a581d2459771e7b1bc4f1.json",
+
+			"hercGlock":                "user/mods/AssAssIn-Olympus/db/items/hercGlock.json",
+			"5a7ae0c351dfba0017554310": "user/mods/AssAssIn-Olympus/db/items/5a7ae0c351dfba0017554310.json",
+			"5b1fa9b25acfc40018633c01": "user/mods/AssAssIn-Olympus/db/items/5b1fa9b25acfc40018633c01.json",
+
+			"hercM9A3":                 "user/mods/AssAssIn-Olympus/db/items/hercM9A3.json",
+			"5cadc190ae921500103bb3b6": "user/mods/AssAssIn-Olympus/db/items/5cadc190ae921500103bb3b6.json",
 
 			"herc921":                  "user/mods/AssAssIn-Olympus/db/items/herc921.json",
 			"59f98b4986f7746f546d2cef": "user/mods/AssAssIn-Olympus/db/items/59f98b4986f7746f546d2cef.json",
@@ -114,21 +128,33 @@
 			"5a0ec13bfcdbcb00165aa685": "user/mods/AssAssIn-Olympus/db/items/5a0ec13bfcdbcb00165aa685.json",
 			"59ff346386f77477562ff5e2": "user/mods/AssAssIn-Olympus/db/items/59ff346386f77477562ff5e2.json",
 			"59d6088586f774275f37482f": "user/mods/AssAssIn-Olympus/db/items/59d6088586f774275f37482f.json",
-			"574d967124597745970e7c94": "user/mods/AssAssIn-Olympus/db/items/574d967124597745970e7c94.json",
-			"587e02ff24597743df3deaeb": "user/mods/AssAssIn-Olympus/db/items/587e02ff24597743df3deaeb.json",
 			"59e6152586f77473dc057aa1": "user/mods/AssAssIn-Olympus/db/items/59e6152586f77473dc057aa1.json",
 			"59e6687d86f77411d949b251": "user/mods/AssAssIn-Olympus/db/items/59e6687d86f77411d949b251.json",
+			"574d967124597745970e7c94": "user/mods/AssAssIn-Olympus/db/items/574d967124597745970e7c94.json",
+			"587e02ff24597743df3deaeb": "user/mods/AssAssIn-Olympus/db/items/587e02ff24597743df3deaeb.json",
 
 			"herc76251":                "user/mods/AssAssIn-Olympus/db/items/herc76251.json",
-			"5b0bbe4e5acfc40dc528a72d": "user/mods/AssAssIn-Olympus/db/items/5b0bbe4e5acfc40dc528a72d.json",
-			"5dcbd56fdbd3d91b3e5468d5": "user/mods/AssAssIn-Olympus/db/items/5dcbd56fdbd3d91b3e5468d5.json",
-			"588892092459774ac91d4b11": "user/mods/AssAssIn-Olympus/db/items/588892092459774ac91d4b11.json",
-			"5bfea6e90db834001b7347f3": "user/mods/AssAssIn-Olympus/db/items/5bfea6e90db834001b7347f3.json",
-			"5df24cf80dee1b22f862e9bc": "user/mods/AssAssIn-Olympus/db/items/5df24cf80dee1b22f862e9bc.json",
-			"5aafa857e5b5b00018480968": "user/mods/AssAssIn-Olympus/db/items/5aafa857e5b5b00018480968.json",
-			"5a367e5dc4a282000e49738f": "user/mods/AssAssIn-Olympus/db/items/5a367e5dc4a282000e49738f.json",
-			"5df8ce05b11454561e39243b": "user/mods/AssAssIn-Olympus/db/items/5df8ce05b11454561e39243b.json",
 			"5c501a4d2e221602b412b540": "user/mods/AssAssIn-Olympus/db/items/5c501a4d2e221602b412b540.json",
+
+			"hercDVL":                  "user/mods/AssAssIn-Olympus/db/items/hercDVL.json",
+			"588892092459774ac91d4b11": "user/mods/AssAssIn-Olympus/db/items/588892092459774ac91d4b11.json",
+
+			"hercM1A":                  "user/mods/AssAssIn-Olympus/db/items/hercM1A.json",
+			"5aafa857e5b5b00018480968": "user/mods/AssAssIn-Olympus/db/items/5aafa857e5b5b00018480968.json",
+
+			"hercM700":                 "user/mods/AssAssIn-Olympus/db/items/hercM700.json",
+			"5bfea6e90db834001b7347f3": "user/mods/AssAssIn-Olympus/db/items/5bfea6e90db834001b7347f3.json",
+
+			"hercSA58":                 "user/mods/AssAssIn-Olympus/db/items/hercSA58.json",
+			"5b0bbe4e5acfc40dc528a72d": "user/mods/AssAssIn-Olympus/db/items/5b0bbe4e5acfc40dc528a72d.json",
+
+			"hercSR25":                 "user/mods/AssAssIn-Olympus/db/items/hercSR25.json",
+			"5df8ce05b11454561e39243b": "user/mods/AssAssIn-Olympus/db/items/5df8ce05b11454561e39243b.json",
+			"5a367e5dc4a282000e49738f": "user/mods/AssAssIn-Olympus/db/items/5a367e5dc4a282000e49738f.json",
+			"5dcbd56fdbd3d91b3e5468d5": "user/mods/AssAssIn-Olympus/db/items/5dcbd56fdbd3d91b3e5468d5.json",
+
+			"hercT5000":                "user/mods/AssAssIn-Olympus/db/items/hercT5000.json",
+			"5df24cf80dee1b22f862e9bc": "user/mods/AssAssIn-Olympus/db/items/5df24cf80dee1b22f862e9bc.json",
 
 			"herc76254":                "user/mods/AssAssIn-Olympus/db/items/herc76254.json",
 			"5c46fbd72e2216398b5a8c9c": "user/mods/AssAssIn-Olympus/db/items/5c46fbd72e2216398b5a8c9c.json",
@@ -294,15 +320,27 @@
 				"herc545":         "user/mods/AssAssIn-Olympus/db/templates/items/herc545.json",
 				"herc556":         "user/mods/AssAssIn-Olympus/db/templates/items/herc556.json",
 				"herc918":         "user/mods/AssAssIn-Olympus/db/templates/items/herc918.json",
-				"herc918p":        "user/mods/AssAssIn-Olympus/db/templates/items/herc918p.json",
-				"herc919":         "user/mods/AssAssIn-Olympus/db/templates/items/herc919.json",
-				"herc919p":        "user/mods/AssAssIn-Olympus/db/templates/items/herc919p.json",
+				"hercPM":          "user/mods/AssAssIn-Olympus/db/templates/items/hercPM.json",
+				"hercAPS":         "user/mods/AssAssIn-Olympus/db/templates/items/hercAPS.json",
+				"hercMP9":         "user/mods/AssAssIn-Olympus/db/templates/items/hercMP9.json",
+				"hercMPX":         "user/mods/AssAssIn-Olympus/db/templates/items/hercMPX.json",
+				"hercPP19":        "user/mods/AssAssIn-Olympus/db/templates/items/hercPP19.json",
+				"hercP226r":       "user/mods/AssAssIn-Olympus/db/templates/items/hercP226r.json",
+				"hercGratch":      "user/mods/AssAssIn-Olympus/db/templates/items/hercGratch.json",
+				"hercGlock":       "user/mods/AssAssIn-Olympus/db/templates/items/hercGlock.json",
+				"hercM9A3":        "user/mods/AssAssIn-Olympus/db/templates/items/hercM9A3.json",
 				"herc921":         "user/mods/AssAssIn-Olympus/db/templates/items/herc921.json",
 				"herc939":         "user/mods/AssAssIn-Olympus/db/templates/items/herc939.json",
 				"herc4630":        "user/mods/AssAssIn-Olympus/db/templates/items/herc4630.json",
 				"herc5728":        "user/mods/AssAssIn-Olympus/db/templates/items/herc5728.json",
 				"herc76225":       "user/mods/AssAssIn-Olympus/db/templates/items/herc76225.json",
 				"herc76239":       "user/mods/AssAssIn-Olympus/db/templates/items/herc76239.json",
+				"hercSA58":        "user/mods/AssAssIn-Olympus/db/templates/items/hercSA58.json",
+				"hercDVL":         "user/mods/AssAssIn-Olympus/db/templates/items/hercDVL.json",
+				"hercM700":        "user/mods/AssAssIn-Olympus/db/templates/items/hercM700.json",
+				"hercT5000":       "user/mods/AssAssIn-Olympus/db/templates/items/hercT5000.json",
+				"hercM1A":         "user/mods/AssAssIn-Olympus/db/templates/items/hercM1A.json",
+				"hercSR25":        "user/mods/AssAssIn-Olympus/db/templates/items/hercSR25.json",
 				"herc76251":       "user/mods/AssAssIn-Olympus/db/templates/items/herc76251.json",
 				"herc76254":       "user/mods/AssAssIn-Olympus/db/templates/items/herc76254.json",
 				"hercAsh12":       "user/mods/AssAssIn-Olympus/db/templates/items/hercAsh12.json",
@@ -311,7 +349,7 @@
 				"hercMP5":         "user/mods/AssAssIn-Olympus/db/templates/items/hercMP5.json",
 				"hercP90":         "user/mods/AssAssIn-Olympus/db/templates/items/hercP90.json",
 				"hercVPO":         "user/mods/AssAssIn-Olympus/db/templates/items/hercVPO.json"
-		}
+			}
 		},
 		"assort": {
 			"ragfair": {
@@ -327,15 +365,27 @@
 					"herc545":         "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc545.json",
 					"herc556":         "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc556.json",
 					"herc918":         "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc918.json",
-					"herc918p":        "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc918p.json",
-					"herc919":         "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc919.json",
-					"herc919p":        "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc919p.json",
+					"hercPM":          "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercPM.json",
+					"hercAPS":         "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercAPS.json",
+					"hercMP9":         "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercMP9.json",
+					"hercMPX":         "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercMPX.json",
+					"hercPP19":        "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercPP19.json",
+					"hercP226r":       "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercP226r.json",
+					"hercGratch":      "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercGratch.json",
+					"hercGlock":       "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercGlock.json",
+					"hercM9A3":        "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercM9A3.json",
 					"herc921":         "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc921.json",
 					"herc939":         "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc939.json",
 					"herc4630":        "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc4630.json",
 					"herc5728":        "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc5728.json",
 					"herc76225":       "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc76225.json",
 					"herc76239":       "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc76239.json",
+					"hercSA58":        "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercSA58.json",
+					"hercDVL":         "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercDVL.json",
+					"hercM700":        "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercM700.json",
+					"hercT5000":       "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercT5000.json",
+					"hercM1A":         "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercM1A.json",
+					"hercSR25":        "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercSR25.json",
 					"herc76251":       "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc76251.json",
 					"herc76254":       "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/herc76254.json",
 					"hercAsh12":       "user/mods/AssAssIn-Olympus/db/assort/ragfair/items/hercAsh12.json",
