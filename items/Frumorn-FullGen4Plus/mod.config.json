@@ -1,0 +1,20 @@
+{
+	"name": "Auto17",
+	"author": "Frumorn",
+	"description": "Pointless to use by default, HMK or Assault is better, but if I add leg protection... different story",
+	"license": "None",
+	"releases": [
+		{
+			"version": "1.0.0",
+			"changelog": [
+				"Release"
+			]
+		}
+	],
+	"dependencies": [],
+	"files": {
+		"items": {
+			"5b44cd8b86f774503d30cba2": "user/mods/Frumorn-FullGen4Plus/db/items/5b44cd8b86f774503d30cba2.json"
+		}
+	}
+}

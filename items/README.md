@@ -47,3 +47,6 @@ tiny tweaks make some weapons noticeably different lol
 
 ### Frumorn-Auto17 - Made by Frumorn
 Adds fullauto at 1200 rounds per minute to glock17 so you can keep muzzle attachment without using glock18c
+
+### Frumorn-FullGen4Plus - Made by Frumorn
+Tweaks Gen4 Full protection armor to actually be full protection (adds right and left leg protection), tweaks durability to be higher, cost should be higher at trader too and slightly increased debuffs for balancing
