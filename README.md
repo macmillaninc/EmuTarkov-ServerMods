@@ -30,3 +30,8 @@ The Author name is the first part of the folder name<br>
 The name of the mod, is the second part of the folder name<br>
 eg : SenkoSan-EnableLanMod<br>
 SenkoSan is the author, EnableLanMod is the name<br>
+
+# Official links
+**Discord link**: https://discord.gg/JnJEev4
+
+**Reddit page**: https://www.reddit.com/r/EmuTarkov/
