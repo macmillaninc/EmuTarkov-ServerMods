@@ -1,0 +1,20 @@
+{
+	"name": "Auto17",
+	"author": "Frumorn",
+	"description": "I want a suppressed full auto glock, frick you no-muzzle slot 18C",
+	"license": "None",
+	"releases": [
+		{
+			"version": "1.0.0",
+			"changelog": [
+				"Release"
+			]
+		}
+	],
+	"dependencies": [],
+	"files": {
+		"items": {
+			"5a7ae0c351dfba0017554310": "user/mods/Frumorn-Auto17/db/items/5a7ae0c351dfba0017554310.json"
+		}
+	}
+}
