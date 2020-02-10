@@ -1,12 +1,12 @@
 {
-	"_id": "herc76251",
-	"_name": "herc76251",
+	"_id": "hercSA58",
+	"_name": "hercSA58",
 	"_parent": "5448bc234bdc2d3c308b4569",
 	"_type": "Item",
 	"_props": {
-		"Name": "herc76251",
-		"ShortName": "herc76251",
-		"Description": "herc76251",
+		"Name": "hercSA58",
+		"ShortName": "hercSA58",
+		"Description": "hercSA58",
 		"Weight": 0.45,
 		"BackgroundColor": "red",
 		"Width": 1,
@@ -81,7 +81,7 @@
 			{
 				"_name": "cartridges",
 				"_id": "5cc70093e4a949033c734314",
-				"_parent": "herc76251",
+				"_parent": "hercSA58",
 				"_max_count": 1000,
 				"_props": {
 					"filters": [
