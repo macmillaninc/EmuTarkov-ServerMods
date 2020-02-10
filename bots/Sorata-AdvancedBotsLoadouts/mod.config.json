@@ -26553,6 +26553,141 @@
           "inventory_998": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/pmc/bear/inventory/inventory_998.json",
           "inventory_999": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/pmc/bear/inventory/inventory_999.json"
         }
+      },
+      "bossbuly": {
+        "appearance": {
+          "body": {},
+          "feet": {},
+          "hands": {},
+          "head": {},
+          "voice": {}
+        },
+        "experience": {},
+        "health": {},
+        "inventory": {
+          "inventory_0": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossbully/inventory/inventory_0.json",
+          "inventory_1": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossbully/inventory/inventory_1.json",
+          "inventory_2": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossbully/inventory/inventory_2.json",
+          "inventory_3": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossbully/inventory/inventory_3.json",
+          "inventory_4": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossbully/inventory/inventory_4.json",
+          "inventory_5": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossbully/inventory/inventory_5.json",
+          "inventory_6": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossbully/inventory/inventory_6.json",
+          "inventory_7": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossbully/inventory/inventory_7.json"
+        },
+        "names": {}
+      },
+      "bosskilla": {
+        "appearance": {
+          "body": {},
+          "feet": {},
+          "hands": {},
+          "head": {},
+          "voice": {}
+        },
+        "experience": {},
+        "health": {},
+        "inventory": {
+          "inventory_0": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_0.json",
+          "inventory_1": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_1.json",
+          "inventory_10": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_10.json",
+          "inventory_11": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_11.json",
+          "inventory_12": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_12.json",
+          "inventory_13": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_13.json",
+          "inventory_14": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_14.json",
+          "inventory_15": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_15.json",
+          "inventory_16": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_16.json",
+          "inventory_2": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_2.json",
+          "inventory_3": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_3.json",
+          "inventory_4": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_4.json",
+          "inventory_5": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_5.json",
+          "inventory_6": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_6.json",
+          "inventory_7": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_7.json",
+          "inventory_8": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_8.json",
+          "inventory_9": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskilla/inventory/inventory_9.json"
+        },
+        "names": {}
+      },
+      "bossgluhar": {
+        "appearance": {
+          "body": {},
+          "feet": {},
+          "hands": {},
+          "head": {},
+          "voice": {}
+        },
+        "experience": {},
+        "health": {},
+        "inventory": {
+          "inventory_0": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossgluhar/inventory/inventory_0.json",
+          "inventory_1": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossgluhar/inventory/inventory_1.json",
+          "inventory_2": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossgluhar/inventory/inventory_2.json",
+          "inventory_3": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossgluhar/inventory/inventory_3.json",
+          "inventory_4": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossgluhar/inventory/inventory_4.json",
+          "inventory_5": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossgluhar/inventory/inventory_5.json",
+          "inventory_6": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossgluhar/inventory/inventory_6.json",
+          "inventory_7": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossgluhar/inventory/inventory_7.json",
+          "inventory_8": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bossgluhar/inventory/inventory_8.json"
+        },
+        "names": {}
+      },
+      "bosskojaniy": {
+        "appearance": {
+          "body": {},
+          "feet": {},
+          "hands": {},
+          "head": {},
+          "voice": {}
+        },
+        "experience": {},
+        "health": {},
+        "inventory": {
+          "inventory_0": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_0.json",
+          "inventory_1": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_1.json",
+          "inventory_10": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_10.json",
+          "inventory_11": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_11.json",
+          "inventory_12": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_12.json",
+          "inventory_13": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_13.json",
+          "inventory_14": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_14.json",
+          "inventory_15": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_15.json",
+          "inventory_2": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_2.json",
+          "inventory_3": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_3.json",
+          "inventory_4": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_4.json",
+          "inventory_5": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_5.json",
+          "inventory_6": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_6.json",
+          "inventory_7": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_7.json",
+          "inventory_8": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_8.json",
+          "inventory_9": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/bosskojaniy/inventory/inventory_9.json"
+        },
+        "names": {}
+      },
+      "followerbully": {
+        "appearance": {
+          "body": {},
+          "feet": {},
+          "hands": {},
+          "head": {},
+          "voice": {}
+        },
+        "experience": {},
+        "health": {},
+        "inventory": {
+          "inventory_0": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_0.json",
+          "inventory_1": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_1.json",
+          "inventory_10": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_10.json",
+          "inventory_11": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_11.json",
+          "inventory_12": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_12.json",
+          "inventory_13": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_13.json",
+          "inventory_14": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_14.json",
+          "inventory_2": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_2.json",
+          "inventory_3": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_3.json",
+          "inventory_4": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_4.json",
+          "inventory_5": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_5.json",
+          "inventory_6": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_6.json",
+          "inventory_7": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_7.json",
+          "inventory_8": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_8.json",
+          "inventory_9": "user/mods/Sorata-AdvancedBotsLoadouts/db/bots/followerbully/inventory/inventory_9.json"
+        },
+        "names": {}
       }
     }
   }
