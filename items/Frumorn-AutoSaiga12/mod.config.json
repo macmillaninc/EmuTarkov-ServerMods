@@ -1,0 +1,20 @@
+{
+	"name": "AutoSaiga12",
+	"author": "Frumorn",
+	"description": "I want a full auto saiga, frick you lame semi",
+	"license": "None",
+	"releases": [
+		{
+			"version": "1.0.0",
+			"changelog": [
+				"Release"
+			]
+		}
+	],
+	"dependencies": [],
+	"files": {
+		"items": {
+			"576165642459773c7a400233": "user/mods/Frumorn-AutoSaiga12/db/items/576165642459773c7a400233.json"
+		}
+	}
+}
