@@ -33,3 +33,7 @@ This mod adds a grenade container (3x3 with 100 slots) to fleamarket for 275000 
 
 ### Sorata-IncreasedMoneyStacks - Made by Sorata
 Money now stacks up to piles of 10mil instead of 500k.
+
+### MacrossMX-CleanNVG - Made by MacrossMX
+All NVG modified with a clearer picture, wide view, and lower intensity for reduced glare. 
+In addition, the PVN-10T uses the same color filter as the Armasight N-15.
