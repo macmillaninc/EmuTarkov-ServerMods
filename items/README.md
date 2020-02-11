@@ -50,3 +50,13 @@ Adds fullauto at 1200 rounds per minute to glock17 so you can keep muzzle attach
 
 ### Frumorn-FullGen4Plus - Made by Frumorn
 Tweaks Gen4 Full protection armor to actually be full protection (adds right and left leg protection), tweaks durability to be higher, cost should be higher at trader too and slightly increased debuffs for balancing
+
+### StealtH-PmagVal - Made by Stealth
+Do you love using the AS VAL but hate that it goes through the 30 round mags like a depressed woman goes through ice cream?
+
+Well look no further, I chose to make the PMAG fit the AS VAL because any other 60 rounder would look stupid, enjoy.
+
+Basically makes the PMAG compatible with the AS VAL.
+
+### Blyto-FullFastV1 - Made by Blyto
+Allows user to attach all Ops-Core Fast MT Accessories
